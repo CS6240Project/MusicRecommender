@@ -160,3 +160,22 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+/dataset
+/bin
+pyenv.cfg
+/lib
+/include
+.DS_Store
+hadoop-3.3.6/
+project.zip
+pyvenv.cfg
+.idea/
+As1/target
+As1/.idea
+As1/test.txt
+As1/HadoopProject.iml
+As1/dependency-reduced-pom.xml
+As1/src/knn
+As1/src/ItemSimilarity
+As1/src/userMatrix
