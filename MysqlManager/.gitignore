@@ -1,0 +1,45 @@
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IntelliJ IDEA project files
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse/NetBeans project files (if any)
+.project
+.classpath
+.settings/
+.nb-configuration/
+.nb-gradle/
+
+# Maven target directory
+target/
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# Maven build output and dependency-reduced POM from the Shade plugin
+dependency-reduced-pom.xml
+
+# Local configuration files (adjust if you want to keep db.properties secret)
+# If db.properties contains sensitive credentials, uncomment the next line:
+# db.properties
+
+# Compiled class files and JARs
+*.class
+*.jar
+*.war
+*.ear
+
+# Generated files (e.g., from annotation processing)
+generated/
+
+# If you have a local run configuration or environment files, exclude them too:
+# For example, if you keep local environment variables in .env:
+# .env
